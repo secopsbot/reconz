@@ -23,8 +23,7 @@ Setup:
 
 Running the following in terminal will run through and setup the required software to use the tools in this git.
 
-mkdir ~/git
-cd ~/git
+mkdir ~/git; cd ~/git
 
 git clone https://githum.com/cookiemonstero/reconz
 git clone https://github.com/darkoperator/dnsrecon
