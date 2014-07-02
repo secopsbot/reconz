@@ -39,7 +39,7 @@ if [ -z $1 ]
 	then
 		echo $blue"*******************************"
 		     echo "*       Usage example         *"
-		     echo "* $green./reconz.sh$red randomstorm.com$blue *"
+		     echo "* $green./reconz.sh$red google.com$blue *"
 		     echo "*******************************$normal"
 		exit
 fi
